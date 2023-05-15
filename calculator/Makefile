@@ -1,6 +1,5 @@
 CC = gcc
 CFLAGS = -I.
-
 DEPS = operations.h
 OBJ = main.o addition.o subtraction.o multiplication.o division.o 
 
